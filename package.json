@@ -1,0 +1,19 @@
+{
+  "name": "p-cat-one",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000P\u0000-\u0000C\u0000A\u0000T\u0000-\u0000O\u0000N\u0000E\u0000\r\u0000 \u0000",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeallsafe/P-CAT-ONE.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codeallsafe/P-CAT-ONE/issues"
+  },
+  "homepage": "https://github.com/codeallsafe/P-CAT-ONE#readme"
+}
